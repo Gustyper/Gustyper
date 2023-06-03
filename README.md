@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![MasterHead]https://cdn.pixabay.com/photo/2016/11/19/09/57/violins-1838390_1280.jpg](https://github.com/Gustyper)
+
 <!--
 **Gustyper/Gustyper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
