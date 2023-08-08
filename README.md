@@ -7,4 +7,4 @@
 </div>
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/gustyper/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustyper/gustyper/blob/output/github-contribution-grid-snake.svg)
