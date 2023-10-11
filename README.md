@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&duration=2000&color=520D61&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Staring+at+the+bottom+of+your+glass;Hoping+one+day+you'll+make+a+dream+last;But+dreams+come+slow%2C+and+they+go+so+fast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&duration=2000&color=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=200&lines=Staring+at+the+bottom+of+your+glass;Hoping+one+day+you'll+make+a+dream+last;But+dreams+come+slow%2C+and+they+go+so+fast)](https://git.io/typing-svg)
 
 ### Hello there! 👋
 
