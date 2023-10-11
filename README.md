@@ -19,7 +19,7 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - R (ggplot)
 - C++ (na área de desenvolvimento de jogos)
 
-### Usei rasoavelmente
+### Usei razoavelmente
 - HTML
 - CSS
 - Java
