@@ -10,5 +10,3 @@
   </p>
 </div>
 
-
-![Snake animation](https://github.com/gustyper/gustyper/blob/output/github-contribution-grid-snake.svg)
