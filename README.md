@@ -35,5 +35,6 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 ## Contato 📲
 - [LinkedIn](www.linkedin.com/in/gustavobianchidasilva)
 - Email: gu.bianchi.s@gmail.com
-    
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gustyper&theme=dracula)
 
