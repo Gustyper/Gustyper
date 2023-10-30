@@ -14,12 +14,13 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - Lógica de programação - Instituto Federal do Rio Grande do Sul
 
 ## Experiências 👨‍💻🤖🎮
-### Já usei bastante
+### Proficiência em:
 - Python (numpy, pandas)
 - R (ggplot)
-- C++ (na área de desenvolvimento de jogos)
+- C++ (desenvolvimento de jogos)
+- lua (desenvolvimento de jogos)
 
-### Usei razoavelmente
+### Básico conhecimento em:
 - HTML
 - CSS
 - Java
