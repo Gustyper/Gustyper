@@ -13,9 +13,11 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - Introdução à Programação - Alfamídia
 - Lógica de programação - Instituto Federal do Rio Grande do Sul
 
-## Experiências 👨‍💻🤖🎮
-### Proficiência em:
-- Python (numpy, pandas)
+## Já tive participação em 👨‍💻🚀
+- Website de um clube de Jockey em React;
+
+### Proficiência em 🤖🎮
+- Python
 - R (ggplot)
 - C++ (desenvolvimento de jogos)
 - lua (desenvolvimento de jogos)
