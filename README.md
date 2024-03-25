@@ -22,13 +22,13 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - Python
 - R (ggplot)
 - C++ (desenvolvimento de jogos)
+- HTML
+- CSS
 - lua (desenvolvimento de jogos)
 
 ### Básico conhecimento em:
-- HTML
-- CSS
 - Java
-
+- 
 <div>
   <p align = center>
     <a href = "https://github.com/gustyper">
