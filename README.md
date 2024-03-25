@@ -13,8 +13,10 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - Introdução à Programação - Alfamídia
 - Lógica de programação - Instituto Federal do Rio Grande do Sul
 
-## Já tive participação em 👨‍💻🚀
+## Já tive participação profissional em 👨‍💻🚀
 - Website de um clube de Jockey em React;
+- Particiação de Hackathon do Rio Aguas com a liga de empreendedorismo FGV Valley;
+- Desenvolvimento de dashboards em Power BI.
 
 ### Proficiência em 🤖🎮
 - Python
