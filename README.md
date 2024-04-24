@@ -14,14 +14,14 @@ Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante d
 - Lógica de programação - Instituto Federal do Rio Grande do Sul
 
 ## Já tive participação profissional em 👨‍💻🚀
-- Website de um clube de Jockey em React;
-- Particiação de Hackathon do Rio Aguas com a liga de empreendedorismo FGV Valley;
+- Website em React;
+- Particiação de Hackathon do Rio Aguas com a liga de empreendedorismo FGV Valley (premiado em 3º lugar);
 - Desenvolvimento de dashboards em Power BI.
 
 ### Proficiência em 🤖🎮
 - Python
 - R (ggplot)
-- C++ (desenvolvimento de jogos)
+- C++
 - HTML
 - CSS
 - lua (desenvolvimento de jogos)
