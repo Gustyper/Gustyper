@@ -1,7 +1,4 @@
-### Hello there! 👋
-
-## Eu 
-Meu nome é Gustavo e, como amante de técnologia e matemática, sou estudante de Ciência de Dados e Inteligência Artificial pela FGV. A funcionalidade e desenvolvimento dos softwares sempre me deixaram curioso e por isso eu adoro programar!
+### Olá! 👋
 
 ## Cursos 📚
 - Introduction to Quantum Computing - QuBitxQuBit
