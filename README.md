@@ -9,7 +9,7 @@
 - Lógica de programação - Instituto Federal do Rio Grande do Sul
 
 ## Já tive participação profissional em 👨‍💻🚀
-- Website em React;
+- Website simples em React;
 - Particiação de Hackathon do Rio Aguas com a liga de empreendedorismo FGV Valley (premiado em 3º lugar);
 - Desenvolvimento de dashboards em Power BI.
 
