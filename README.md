@@ -24,16 +24,16 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 ### Technical Expertise & Implementation
 
 **Data Engineering & Systems Architecture**
-* [cite_start]**ETL Optimization:** Experience in reducing computational overhead, recently refactoring processes to reduce monthly data loads from 65M to 25M rows.
+* **ETL Optimization:** Experience in reducing computational overhead, recently refactoring processes to reduce monthly data loads from 65M to 25M rows.
 * **Distributed Communication:** Implementation of low-latency, real-time data streaming using **gRPC** and **C++17** to replace disk-dependent communication.
-* [cite_start]**Database Management:** Advanced handling of **SQL** for analytical processing and **SQLite** for embedded storage solutions.
-* [cite_start]**Automated Collection:** Development of robust **Web Scraping** architectures in Python for real-time market monitoring and competitive intelligence.
+* **Database Management:** Advanced handling of **SQL** for analytical processing and **SQLite** for embedded storage solutions.
+* **Automated Collection:** Development of robust **Web Scraping** architectures in Python for real-time market monitoring and competitive intelligence.
 
 **Machine Learning & Quantitative Modeling**
-* [cite_start]**Deep Learning:** Development of **Neural Networks** applied to quantitative finance to identify trends in technology sector parameters.
+* **Deep Learning:** Development of **Neural Networks** applied to quantitative finance to identify trends in technology sector parameters.
 * **Time Series Forecasting:** Proficiency in **SARIMAX** modeling, STL decomposition, and **Walk-Forward Validation** for high-accuracy demand forecasting.
 * **Algorithmic Optimization:** Application of **Graph Theory** (Dijkstra and Kruskal) to solve complex urban routing and infrastructure topology problems.
-* [cite_start]**Modern Portfolio Theory:** Structuring **Asset Allocation** for UHNWI clients using liquidity-aware strategies and dynamic rebalancing backtests.
+* **Modern Portfolio Theory:** Structuring **Asset Allocation** for UHNWI clients using liquidity-aware strategies and dynamic rebalancing backtests.
 
 **Development & Tools**
 * **Object-Oriented Programming:** Focus on clean, modular code in **C++** and **Python**.
