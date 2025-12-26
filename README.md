@@ -14,6 +14,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Data Engineering & Visualization**
 ![gRPC](https://img.shields.io/badge/gRPC-54D1B5?style=for-the-badge&logo=grpc&logoColor=white)
@@ -39,6 +40,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 * **Object-Oriented Programming:** Focus on clean, modular code in **C++** and **Python**.
 * **Data Visualization:** Building interactive **Streamlit** and **Power BI** dashboards to translate complex data into actionable insights.
 * **Financial Modeling:** Thesis development involving **TAM** analysis, competitive differentiation, and growth projections.
+* **Tax Engine & Web Dev:** Developed a [React-based tax calculator](https://calculadora-ir-acoes.vercel.app/) that automates weighted average price (WAP) and tax liability for the Brazilian stock market.
 
 ### 📊 GitHub Stats
 
