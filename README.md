@@ -46,7 +46,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gustyper&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustyper&layout=compact&theme=highcontrast&hide=jupyter%20notebook,html"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustyper&theme=highcontrast"/>
 </p>
 
 ---
