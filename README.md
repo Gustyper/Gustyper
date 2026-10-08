@@ -6,7 +6,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 
 ---
 
-### Tech Stack & Tools
+### Already used Tech Stack & Tools
 
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -22,32 +22,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Technical Expertise & Implementation
-
-**Data Engineering & Systems Architecture**
-* **ETL Optimization:** Experience in reducing computational overhead, recently refactoring processes to reduce monthly data loads from 65M to 25M rows.
-* **Distributed Communication:** Implementation of low-latency, real-time data streaming using **gRPC** and **C++17** to replace disk-dependent communication.
-* **Database Management:** Advanced handling of **SQL** for analytical processing and **SQLite** for embedded storage solutions.
-* **Automated Collection:** Development of robust **Web Scraping** architectures in Python for real-time market monitoring and competitive intelligence.
-
-**Machine Learning & Quantitative Modeling**
-* **Deep Learning:** Development of **Neural Networks** applied to quantitative finance to identify trends in technology sector parameters.
-* **Time Series Forecasting:** Proficiency in **SARIMAX** modeling, STL decomposition, and **Walk-Forward Validation** for high-accuracy demand forecasting.
-* **Algorithmic Optimization:** Application of **Graph Theory** (Dijkstra and Kruskal) to solve complex urban routing and infrastructure topology problems.
-* **Modern Portfolio Theory:** Structuring **Asset Allocation** for UHNWI clients using liquidity-aware strategies and dynamic rebalancing backtests.
-
-**Development & Tools**
-* **Object-Oriented Programming:** Focus on clean, modular code in **C++** and **Python**.
-* **Data Visualization:** Building interactive **Streamlit** and **Power BI** dashboards to translate complex data into actionable insights.
-* **Financial Modeling:** Thesis development involving **TAM** analysis, competitive differentiation, and growth projections.
-* **Tax Engine & Web Dev:** Developed a [React-based tax calculator](https://calculadora-ir-acoes.vercel.app/) that automates weighted average price (WAP) and tax liability for the Brazilian stock market.
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gustyper&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gustyper&theme=highcontrast"/>
-</p>
+My main learning and work focus right now is Machine Learning (mostly Deep Neural Networks), Computer Vision and LLM agent integrations. 
 
 ---
 
