@@ -21,6 +21,7 @@ Currently, I am a **Data Governance & Management Intern at Icatu Seguros**, wher
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
 
 **Data Engineering & Visualization**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-54D1B5?style=for-the-badge&logo=grpc&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
